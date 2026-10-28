@@ -1,0 +1,8 @@
+mss
+keyboard
+PyAudioWPatch
+soundfile
+numpy
+imageio
+imageio-ffmpeg
+pillow
